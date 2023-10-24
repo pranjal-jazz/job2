@@ -1,0 +1,8 @@
+---
+- hosts: project
+  become: true
+  tasks:
+    - name: To install docker
+      yum:
+        name : "docker"
+        state: "present"
