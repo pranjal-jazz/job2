@@ -1,2 +1,2 @@
-[project]
-51.20.129.64 ansible_user=ec2-user
+[teset]
+51.20.83.152 ansible_user=ec2-user
