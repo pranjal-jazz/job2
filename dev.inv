@@ -1,2 +1,2 @@
 [test]
-51.20.83.152 ansible_user=ec2-user
+172.31.6.123 ansible_user=edureka@kslave1
